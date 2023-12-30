@@ -9,7 +9,7 @@ O sistema hoje possui dois projetos: um do tipo console, e um do tipo testes com
 
 O projeto de testes possui as classes de teste **ValidacoesListaTests** e **ValidacoesStringTests**, assim como seus métodos para validar o projeto do tipo console, porém estão incompletos. 
 
-## Projeto Console, suas classes e métodos
+## Projeto Console, suas Classes e Métodos
 
 Essas são as classes do projeto console, onde fica a principal lógica do sistema.
 
